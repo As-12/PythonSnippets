@@ -7,12 +7,13 @@ This can be used as a reference or a bootstrap to future projects.
 
 This project intends to use Python 3.7+.
 
-
 ## Python Reference
 
 https://learnxinyminutes.com/docs/python/
 
+## Contribution
 
+Feel free to open pull request if you have a suggestion for a particular code snippet. 
 
 
 
